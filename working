@@ -1,0 +1,10 @@
+#How it works 
+   This Arduino code sets up a communication interface using Serial communication at a baud rate of 9600. 
+  
+   It defines a relay using the `#define relay` directive. The program continuously checks for incoming data on the Serial interface.
+  
+   If data is available, it reads the data and prints it back via Serial. Depending on the received data, it either turns the relay on or off. 
+  
+   If the received data is '1', it sets pin 2 to LOW, turning the relay off. If the received data is '2', it sets pin 2 to HIGH, turning the relay on. 
+   
+   The program includes a delay of 100 milliseconds between iterations of the loop.
