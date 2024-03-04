@@ -1,6 +1,6 @@
-#Home Automation Through Android Mobile App by using Arduino UNO
+# Home Automation Through Android Mobile App by using Arduino UNO
 
-**Domain** : Embedded System with IOT
+**Domain** : **Embedded System with IOT**
   
    •Developed a cost-effective automation system that reduces energy consumption
     by 30% and increases efficiency by 40%.
